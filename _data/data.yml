@@ -108,36 +108,6 @@ career-profile:
 #       time: 2020 Oct - current
 #       details: |
 
-#     - degree: Applied Scientists Intern at AWS
-#       university: P. Perona, Pasadena, CA, USA
-#       time: 2019 July - Dec
-#       details: |
-
-#     - degree: PhD in Computer vision and Machine learning
-#       university: Heidelberg University
-#       time: 2015 - 2020
-#       details: |
-
-#     - degree: Internship (Master Thesis)
-#       university: Tobii
-#       time: 2014 - 2015
-#       details: |
-
-#     - degree: Master Degree
-#       university: KTH (Stockholm, Sweden)
-#       time: 2013 - 2015
-#       details: |
-
-#     - degree: Master Degree
-#       university: Politecnico di Torino (Torino, Italy)
-#       time: 2012 - 2015
-#       details: |
-
-#     - degree: Bachelor Degree
-#       university: Politecnico di Torino (Torino, Italy)
-#       time: 2009 - 2012
-#       details: |
-
 
 educationcomplete:
     - degree: Applied Scientist full-time at AWS
@@ -201,6 +171,24 @@ experiences:
           - Deploy into production and monitor a machine learning model to predict completion time of construction defects
           - Develop BI dashboards for top management at construction companies
           - Develop NLP algorithm to standardize construction defects
+          
+    - role: Artificial Intelligence Intern
+      time: July - Dec 2019
+      company: TalentSoft, Paris
+      details: |
+
+          - Implement State-of-the-art NLP algorithm for Sentiment Analysis on Employee Surveys
+          - Develop Named Entity Recognition algorithm to anonymize employee data for GDPR compliance
+          - Integrate, into the main product, Machine Learning algorithms regarding employee Data
+          
+    - role: Artificial Intelligence Intern
+      time: Sep - Dec 2018
+      company: Mooveat, Paris
+      details: |
+
+          - Develop of a crop yield prediction algorithm using machine learning. The algorithm is used in the strategic planning of agricultural production for small scale farmers.
+
+          
 
 
 #projects:
@@ -245,37 +233,6 @@ experiences:
       #   authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
       #   conference: tPAMI, 2020
 
-      # - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
-      #   authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
-      #   conference: CVPR, 2020
-
-      # - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
-      #   authors: B. Brattoli*, K. Roth*, B. Ommer
-      #   conference: ICCV, 2019
-
-      # - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
-      #   authors: B. Brattoli*, U. Buechler*, B. Ommer
-      #   conference: ECCV, 2018
-
-      # - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
-      #   authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
-      #   conference: CVPR, 2017
-
-      # - title: "Cross and Learn: Cross-Modal Self-Supervision"
-      #   authors: N. Sayer, B. Brattoli, B. Ommer
-      #   conference: oral at GCPR, 2018
-
-      # - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
-      #   authors: O. Blum, B. Brattoli, B. Ommer
-      #   conference: oral at GCPR, 2018
-
-      # - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
-      #   authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
-      #   conference: "Nature Communications, 2017"
-
-      # - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
-      #   authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
-      #   conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
