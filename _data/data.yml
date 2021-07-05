@@ -175,7 +175,7 @@ projects:
 
     assignments:
       - title: Few-Shot Voice Cloning
-        link: 
+        link:  "#"
         tagline: 
         • Developed a REST API that turns text into speech using a particular voice
         • Tuned the Deep Learning model to samples of each celebrity’s voice
