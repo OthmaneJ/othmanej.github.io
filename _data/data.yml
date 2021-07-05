@@ -176,19 +176,11 @@ projects:
     assignments:
       - title: Few-Shot Voice Cloning
         link:  "#"
-        tagline: 
-        • Developed a REST API that turns text into speech using a particular voice
-        • Tuned the Deep Learning model to samples of each celebrity’s voice
-        • Turned the api into a web application with Dash
+        tagline: "Developed a REST API that turns text into speech using a particular voice"
 
       - title: Aspect Based Sentiment Analysis
         link: "#"
-        tagline: 
-        • Scrapped reviews on companies from employment-related search engines
-        • Developed a sentiment analysis model based on ’BERT’ to extract sentiment from the company reviews based on
-        different aspects (work-life balance, company culture, salary and benefits, ...)
-        • Adapted it to work on a GPU for faster inference
-        • Turned it into a ready-for-deployment flask API
+        tagline: "Developed a sentiment analysis model based on ’BERT’ to extract sentiment from the company reviews based on different aspects (work-life balance, company culture, salary and benefits, ...)"
 
 
       #- title: Delta
