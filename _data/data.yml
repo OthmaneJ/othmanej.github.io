@@ -198,15 +198,15 @@ certifications:
     assignments:
       - title: AWS Machine Learning
         link:  "https://coursera.org/share/b9496ef50d34db02b1017941fe361bf1"
-        tagline: ""
+#         tagline: ""
 
       - title: Building Containerized Applications on AWS
         link: "https://coursera.org/share/8f38a3eb640d7ba7839a286305704dc1"
-        tagline: ""
+#         tagline: ""
 
       - title: Gitlab Certified Associate
         link: "https://api.badgr.io/public/assertions/uTJB5MEjRFCv9GHM_BzH_Q"
-        tagline: ""
+#         tagline: ""
 
 # publications:
 #     title: Publications
@@ -249,6 +249,9 @@ skills:
         level: 100%
        
       - name: Gitlab
+        level: 80%
+        
+      - name: SQL
         level: 80%
 
 footer: >
