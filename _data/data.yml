@@ -191,6 +191,18 @@ projects:
         link: "#"
         tagline: "Developed a sentiment analysis model based on ’BERT’ to extract sentiment from the company reviews based on different aspects (work-life balance, company culture, salary and benefits, ...)"
 
+certifications:
+    title: Certifications
+    intro: > 
+
+    assignments:
+      - title: AWS Machine Learning
+        link:  "#"
+        tagline: "Developed a REST API that turns text into speech using a particular voice"
+
+      - title: Aspect Based Sentiment Analysis
+        link: "#"
+        tagline: "Developed a sentiment analysis model based on ’BERT’ to extract sentiment from the company reviews based on different aspects (work-life balance, company culture, salary and benefits, ...)"
 
       #- title: Delta
         #link: "#"
