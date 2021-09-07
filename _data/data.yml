@@ -112,9 +112,14 @@ educationcomplete:
       university: Ecole Normale Superieure Paris Saclay
       time: 2020 - 2021
       details: |
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
+          - Foundations of distributed and large scale computing optimization
+          - Convex optimization and applications in machine learning
+          - Probabilistic graphical models
+          - Object Recognition and Computer Vision
+          - Représentations parcimonieuses
+          - Apprentissage pour les séries temporelles
+          - Deep Learning
+          - Deep Learning in Practice (advanced)
 
     - degree: Master Degree
       university: Ecole Centrale Paris
