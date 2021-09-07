@@ -245,10 +245,10 @@ skills:
       - name: Airflow
         level: 90%
         
-       - name: Dash
+      - name: Dash
         level: 100%
        
-       - name: Gitlab
+      - name: Gitlab
         level: 80%
 
 footer: >
