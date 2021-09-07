@@ -135,6 +135,13 @@ educationcomplete:
       university: Aalto University - Helsinki, Finland
       time: Spring 2019
       details: |
+        
+        - Introduction to Artificial intelligence
+        - Deep learning
+        - Advanced probabilistic methods in Machine Learning
+        - Statistical inference
+        - Kernel methods in machine learning
+        - Information visualization
 
     - degree: Preparatory classes
       university: CPGE Lycee d’excellence MPSI/MP*
