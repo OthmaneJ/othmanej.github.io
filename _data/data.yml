@@ -197,16 +197,16 @@ certifications:
 
     assignments:
       - title: AWS Machine Learning
-        link:  "#"
-        tagline: "Developed a REST API that turns text into speech using a particular voice"
+        link:  "https://coursera.org/share/b9496ef50d34db02b1017941fe361bf1"
+        tagline: ""
 
-      - title: Aspect Based Sentiment Analysis
-        link: "#"
-        tagline: "Developed a sentiment analysis model based on ’BERT’ to extract sentiment from the company reviews based on different aspects (work-life balance, company culture, salary and benefits, ...)"
+      - title: Building Containerized Applications on AWS
+        link: "https://coursera.org/share/8f38a3eb640d7ba7839a286305704dc1"
+        tagline: ""
 
-      #- title: Delta
-        #link: "#"
-        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Gitlab Certified Associate
+        link: "https://api.badgr.io/public/assertions/uTJB5MEjRFCv9GHM_BzH_Q"
+        tagline: ""
 
 # publications:
 #     title: Publications
