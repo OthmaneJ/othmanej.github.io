@@ -26,7 +26,7 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Fluent
+        level: Professional (C2)
 
       - idiom: Arab
         level: Native
@@ -35,13 +35,13 @@ sidebar:
         level: Native
 
     interests:
-      - item: Piano
-        link:
-
       - item: Cycling
         link:
 
-      - item: Bouldering
+      - item: Traveling
+        link:
+
+      - item: Soccer
         link:
 
 career-profile:
@@ -143,7 +143,7 @@ educationcomplete:
             Two years of intensive preparation for the entry to French engineering schools ’Grandes ´ecoles’
 
 experiences:
-    - role: Artificial Intelligence Intern
+    - role: ML Engineer Intern
       time: Feb - Aug 2020
       company: Novade, Singapore
       details: |
@@ -152,7 +152,7 @@ experiences:
           - Develop BI dashboards for top management at construction companies
           - Develop NLP algorithm to standardize construction defects
           
-    - role: Artificial Intelligence Intern
+    - role: ML Research Intern
       time: July - Dec 2019
       company: TalentSoft, Paris
       details: |
@@ -161,7 +161,7 @@ experiences:
           - Develop Named Entity Recognition algorithm to anonymize employee data for GDPR compliance
           - Integrate, into the main product, Machine Learning algorithms regarding employee Data
           
-    - role: Artificial Intelligence Intern
+    - role: Artificial Intelligence Consultant
       time: Sep - Dec 2018
       company: Mooveat, Paris
       details: |
